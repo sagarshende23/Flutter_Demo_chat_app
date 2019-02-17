@@ -8,6 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+
 ![flutterchatapp](https://user-images.githubusercontent.com/43273993/52119318-b8193b80-263e-11e9-8bb8-8aec56876282.jpg)
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
@@ -16,3 +17,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+Found this project useful?
+If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
